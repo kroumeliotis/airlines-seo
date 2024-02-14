@@ -2,7 +2,7 @@
 
 ## Published Paper
 * **Journal**: [Sustainability | An Open Access Journal from MDPI](https://www.mdpi.com/journal/sustainability)
-* **Title**: Airlines’ Sustainability Study Based on Search Engine Optimization Techniques and Technologies 
+* **Title**: [Airlines’ Sustainability Study Based on Search Engine Optimization Techniques and Technologies ](https://www.mdpi.com/2071-1050/14/18/11225)
 * **DOI**: https://doi.org/10.3390/su141811225
 
 ## Authors
